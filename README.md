@@ -9,7 +9,6 @@ If you don't have a Professional or Enterprise plan on ZenDesk, you can export a
 
 [Node.js](https://nodejs.org/en/) installed
 ```
-$ npm install request
 $ npm install
 ```
 ## Usage:
