@@ -1,0 +1,10 @@
+{
+  "name": "ZenDesk-Customer-Exporter",
+  "version": "0.1.0",
+  "description": "",
+  "main": "zendesk-exporter.js",
+  "author": "KostasX",
+  "dependencies": {
+    "request-promise": "^4.2.2"
+  }
+}
