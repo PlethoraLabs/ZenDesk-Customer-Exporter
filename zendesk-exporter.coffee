@@ -94,4 +94,7 @@ createCSV = ()->
   console.log("Number of returned Entries: ", zendeskUsers.length)
 
 # Usage: Get first 100 customers:
-getUsers().then(console.log).catch(console.log)
+# getUsers().then(console.log).catch(console.log)
+
+# Usage: Get all customers and write the data to a JSON file
+writeUsersToFile()
