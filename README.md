@@ -20,6 +20,5 @@ Syntax: ZENDESK_USER=<USERNAME> ZENDESK_TOKEN=<TOKEN> ZENDESK_DOMAIN=<SUBDOMAIN>
 For **myfirm**.zendesk.com:
 
 ```
-$ npm install
 $ ZENDESK_USER=myusername@gmail.com ZENDESK_TOKEN=1234567890 ZENDESK_DOMAIN=myfirm node zendesk-exporter.js
 ```
